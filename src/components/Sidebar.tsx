@@ -34,7 +34,7 @@ const Sidebar = () => {
           </div>
           <div className="flex">
             <Folders className="mr-2 mt-1 ml-1 h-4 w-4" />
-            <Link href='#'>Categories</Link>
+            <Link href='/categories'>Categories</Link>
           </div>
         </CommandGroup>
         <CommandSeparator />
